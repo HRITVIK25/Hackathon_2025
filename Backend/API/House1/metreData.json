@@ -1,0 +1,16 @@
+[
+  {
+    "meterID": "H1-MTR-001",
+    "mobileNo": "9876543210",
+    "requestID": "req-001",
+    "surplusEnergy": 18.76,
+    "timestamp": "2025-01-23T12:00:00.000Z"
+  },
+  {
+    "meterID": "H1-MTR-001",
+    "mobileNo": "9876543210",
+    "requestID": "req-002",
+    "surplusEnergy": 22.15,
+    "timestamp": "2025-01-23T12:00:00.000Z"
+  }
+]

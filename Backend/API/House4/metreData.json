@@ -1,0 +1,27 @@
+[
+    {
+      "meterID": "H4-MTR-004",
+      "location": { "latitude": 13.0827, "longitude": 80.2707 },
+      "surplusEnergy": 19.45,
+      "mobileNo": "9876543213",
+      "requestID": "req-001",
+      "timestamp": "2025-01-23T12:00:00.000Z"
+    },
+    {
+      "meterID": "H4-MTR-004",
+      "location": { "latitude": 13.0827, "longitude": 80.2707 },
+      "surplusEnergy": 21.35,
+      "mobileNo": "9876543213",
+      "requestID": "req-002",
+      "timestamp": "2025-01-23T12:10:00.000Z"
+    },
+    {
+      "meterID": "H4-MTR-004",
+      "location": { "latitude": 13.0827, "longitude": 80.2707 },
+      "surplusEnergy": 20.12,
+      "mobileNo": "9876543213",
+      "requestID": "req-003",
+      "timestamp": "2025-01-23T12:20:00.000Z"
+    }
+  ]
+  
